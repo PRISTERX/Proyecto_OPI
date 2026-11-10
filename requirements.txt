@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.0
+pulp==2.9.0
+matplotlib>=3.8
+streamlit>=1.50
+altair>=5.0
